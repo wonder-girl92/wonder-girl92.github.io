@@ -1,0 +1,87 @@
+body {
+	margin:0;
+}
+
+.a1 {
+	background-image: url(fon.jpeg);
+	box-sizing: border-box;
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	background-attachment: fixed;
+}
+
+.a2 {
+	color: white;
+	font-size: 80px;
+	text-shadow: 0 0 15px black; 
+}
+
+.b1 {
+	width:1000px;
+	font-size: 60px;
+	margin: auto;
+	margin-top: 150px;
+	text-align: center;
+	}
+
+.b2 {
+	display: flex;
+	margin:auto;
+	margin-top: 50px;
+	font-size: 20px;
+	justify-content: space-between;
+}
+
+.c1 {
+	background-color: #f4f4f4;
+box-sizing: border-box;
+padding: 20px;
+text-align: justify;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.c1:hover {
+	box-shadow: 0 0 15px 5px grey; 
+}
+
+.d1 {
+	width: 1000px;
+	margin:auto;
+	width:1000px;
+	font-size: 60px;
+	margin-top: 150px;
+	text-align: center;
+}
+
+.d2 {
+	display: flex;
+	margin:auto;
+	margin-top: 50px;
+	justify-content: space-between;
+	box-sizing: border-box;
+}
+
+.d3 {
+	font-size: 20px;
+	box-sizing: border-box;
+text-align: left;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.img {
+	width: 100%;
+}
+
+h1 {
+	font-weight: normal;
+}
+
+.d3 p::after {
+content:"-(new edition)";
+color: red;
+}
