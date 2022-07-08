@@ -1,0 +1,49 @@
+.main {
+color: white;
+background-color: #007bff;
+padding: 10px;
+margin-bottom: 10px;
+}
+
+.beach {
+	height: 430px;
+}
+
+.a1 {
+	background-color: #28a745;
+	border-radius: 20px;
+	padding: 20px;
+	color: #f0f0f0;
+}
+
+.a2{
+background-color: #ffc107;
+	border-radius: 20px;
+	padding: 20px;
+	color: #f0f0f0;
+}
+
+.a3 {
+	background-color: #008bff;
+	border-radius: 20px;
+	padding: 20px;
+	color: #f0f0f0;
+}
+
+.a4 {
+	background-color: #dc3545;
+	border-radius: 20px;
+	padding: 20px;
+	color: #f0f0f0;
+}
+
+.end {
+	background-color: #011e2e;
+	padding: 10px;
+	color: white;
+	margin-top: 10px;
+}
+
+.btn-light {
+	background-color: #f0f0f0
+}
