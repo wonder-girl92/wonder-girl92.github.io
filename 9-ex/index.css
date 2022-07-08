@@ -1,0 +1,128 @@
+header {
+	background-color: white;
+	box-shadow: 0 2px 15px 0 #757272;
+}
+
+header .nav li a:hover {
+color: red;
+}
+
+header .nav li a {
+	text-decoration: none;
+	color:#6c757d;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+.nav {
+	padding: 15px;
+}
+
+.slide {
+	background-image: url('img/bg-masthead.jpg');
+background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.main2 h1 {
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
+
+.main1 {
+	color: rgba(255, 255, 255, 0.75);
+	font-size: 20px;
+	text-align: center;
+}
+
+.main2 {
+	padding-top: 100px;
+	padding-bottom: 180px;
+	padding-right: 60px;
+	padding-left: 60px;
+}
+
+.mybutton, .mybutton2 {
+	margin: auto;
+	color: white;
+	border-radius: 30px;
+	width: 28%;
+	background-color: #f4623a;
+	text-align: center;
+	margin-top: 35px;
+	font-size: 14px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+ .mybutton a {
+	color: white;
+	text-decoration: none;
+	}
+.mybutton a:hover {
+text-decoration: none;
+color: white;
+ }
+.mybutton:hover {
+	background-color: #d84219;
+}
+
+.start1 {
+	background-color: #f4623a;
+}
+
+.start2 {
+	text-align: center;
+	padding: 150px;
+}
+
+.start2 h2 {
+	color: white;
+	font-size: 35px;	}
+.start2 p {
+	color: rgba(255, 255, 255, 0.5);
+	font-size: 17px;
+}
+
+.mybutton2 a {
+	text-decoration: none;
+	color: black;
+	}
+.mybutton2 a:hover {
+text-decoration: none;
+color: black;
+ }
+.mybutton2:hover {
+background-color: #e5e6e8;
+}
+.mybutton2 {
+	background-color:#f8f9fa;
+	width: 23%;
+}
+
+.service {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.service1 h2 {
+	font-size: 35px;
+	text-align: center;
+}
+ .service .col-3 {
+ 	color: #6c757d;
+ }
+
+ .service .col-3 h3 {
+ 	color: black;
+ }
+img {
+	width: 100%
+}
+
+footer {
+	color: #6c757d;
+	padding: 43px;
+}
